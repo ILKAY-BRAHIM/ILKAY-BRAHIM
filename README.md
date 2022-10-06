@@ -7,9 +7,9 @@
 
 
 
-![hasbulla-money](https://user-images.githubusercontent.com/88441828/194359977-8e4f6e09-4bcf-468a-be78-3922a3056640.gif)
+![hasbulla-money](https://user-images.githubusercontent.com/88441828/194359977-8e4f6e09-4bcf-468a-be78-3922a3056640.gif) ![hasbulla-money](https://user-images.githubusercontent.com/88441828/194381282-2d53fce9-d102-4e8b-835c-16c9ad5e787f.gif)
 
-![hasbulla-money](https://user-images.githubusercontent.com/88441828/194381282-2d53fce9-d102-4e8b-835c-16c9ad5e787f.gif)
+
 
 
 
