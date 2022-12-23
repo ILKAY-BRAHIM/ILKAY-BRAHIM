@@ -14,7 +14,7 @@
 ┌──┤ WHO AM I ├─────────▰▰▰                         ┌──┤ SOCIAL MEDIA ├─────────▰▰▰
 ├ ▣ Computer Science Student at 1337 Med-Tétouan.   ├─◈ <a href="https://www.linkedin.com/in/brahim-chifour-639652239/" rel="nofollow">LinkedIn</a>
 ├─▣ From Essaouira, Morocco                         ├─◈ <a href="https://instagram.com/brahim_elallami?igshid=NTdlMDg3MTY=" rel="nofollow">Instagram</a>
-├─▣ Interested in GameDev, WebDev.                  ├─◈ Discord: bchifour#4360
+├─▣ Interested in CyberSecurity, WebDev.                  ├─◈ Discord: bchifour#4360
 └───────────────────────────────▰▰▰                 └───────────────────────────────▰▰▰
 </pre>
 
