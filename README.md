@@ -18,8 +18,7 @@
 <pre>
 
 ┌──┤ Cursus 42 ├─────────▰▰▰                        
-├ ▣ <a href="https://github.com/B-07brahim/Libft" rel="nofollow">Libft</a>   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfuflhnt003008l7ouin00mr/project/2809881" alt="bchifour's 42 Libft Score" /></a>
-
+├ ▣ <a href="https://github.com/B-07brahim/Libft" rel="nofollow">Libft</a> 
 ├─▣ <a href="https://github.com/B-07brahim/printf" rel="nofollow">ft_printf</a>                        
 ├─▣ <a href="https://github.com/B-07brahim/printf" rel="nofollow">get_next_line</a>   
 ├─▣ <a href="https://github.com/B-07brahim/Born2beroot/blob/main/README.md" rel="nofollow">born2beroot</a>  
