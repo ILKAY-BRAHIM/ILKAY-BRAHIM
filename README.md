@@ -25,3 +25,5 @@
 ├─▣ <a href="https://github.com/B-07brahim/push_swap" rel="nofollow">push_swap</a>  
 └───────────────────────────────▰▰▰               
 </pre>
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfuflhnt003008l7ouin00mr/stats?cursusId=21&coalitionId=277" alt="bchifour's 42 stats" /></a>
